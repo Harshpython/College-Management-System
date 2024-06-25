@@ -8,7 +8,7 @@ from teacher import college_faculty
 from student import college_student                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 import time,datetime 
 from tkinter import messagebox
-from typing import Counter
+from typing import Counter 
 from PIL import ImageTk,Image
 
 print("***********************************************************************************************************************")
